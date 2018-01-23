@@ -8,4 +8,4 @@
 * https://pagespeed-ninjas.github.io/error/431.html
 * https://pagespeed-ninjas.github.io/error/500.html
 * https://pagespeed-ninjas.github.io/error/502.html
-* https://pagespeed-ninjas.github.io/error/503.html
+* https://pagespeed-ninjas.github.io/error/503-.html
